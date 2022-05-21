@@ -11,6 +11,7 @@ editor_options:
 Welcome to my research website on cassava genomics prediction.
 
 ```{r}
+hist(iris$Sepal.Length)
 ```
 
 
